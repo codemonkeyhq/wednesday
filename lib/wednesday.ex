@@ -1,0 +1,2 @@
+defmodule Wednesday do
+end
